@@ -1,2 +1,1 @@
-# social_app
-A modern professional social media platform built with Node.js &amp; vanilla JavaScript. Features user profiles, posts, likes, comments, and real-time updates with beautiful dark theme UI.
+A modern professional social media platform built with Node.js & vanilla JavaScript. Features user authentication, profile management, posts with likes/comments, and beautiful responsive dark theme design.
