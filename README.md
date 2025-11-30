@@ -19,19 +19,10 @@ A modern, responsive social media platform built with **Node.js** and **vanilla 
 - **Backend:** Node.js, Express.js
 - **Database:** In-memory (for development)
 
-## 📸 Screenshots
+## 📸 Video
 
-### 🏠 Main Feed
-![Main Feed](./screenshots/main-feed.png)
 
-### 👤 Profile Page  
-![Profile Page](./screenshots/profile-page.png)
-
-### 📱 Mobile View
-![Mobile View](./screenshots/mobile-view.png)
-
-### ✏️ Edit Profile
-![Edit Profile](./screenshots/edit-profile.png)
+![MAIN VIDEO](./video/sidraayyyaura.mp4)
 ## ⚡ Quick Start
 
 ```bash
