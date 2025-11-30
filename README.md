@@ -22,7 +22,7 @@ A modern, responsive social media platform built with **Node.js** and **vanilla 
 ## 📸 Video
 
 
-![MAIN VIDEO](./video/sidraayyaura.mp4)
+![MAIN VIDEO](./sidraayyaura.zip)
 ## ⚡ Quick Start
 
 ```bash
